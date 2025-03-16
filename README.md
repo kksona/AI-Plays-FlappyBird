@@ -44,9 +44,3 @@ You can modify **NEAT configuration settings** in the `config-feedforward.txt` f
 
 ## Demo
 *(Add a link to a demo video or GIF showcasing the AI in action.)*
-
-## Author
-**Kshitij Kumar Sona**
-
-## License
-This project is open-source and available under the **MIT License**.
