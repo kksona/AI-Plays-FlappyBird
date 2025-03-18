@@ -42,5 +42,30 @@ You can modify **NEAT configuration settings** in the `config-feedforward.txt` f
 - Implementing **different difficulty levels**.
 - Enhancing the **visualization of AI progress** over generations.
 
-## Demo
-*(Add a link to a demo video or GIF showcasing the AI in action.)*
+## Snapshots
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2e7a4bdb-d272-4fd8-8f7c-2a7530512111" alt="Img1" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/655844a0-a836-47ae-a79e-6524f7a04885" alt="Img2" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0f2f65ae-cf03-4160-853d-edc273b481ed" alt="Img3" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/35122794-8943-4682-afbb-9feeca1c2409" alt="Img4" width="300" style="border:1px solid #ccc; border-radius:10px;"/>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+</div>
